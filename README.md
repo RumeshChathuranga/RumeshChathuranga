@@ -29,16 +29,16 @@
 </p>
 
 ## 🔥 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeshchathuranga&show_icons=true&locale=en&layout=compact" alt="rumeshchathuranga" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeshchathuranga&show_icons=true&locale=en" alt="rumeshchathuranga" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&" alt="rumeshchathuranga" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeshchathuranga&show_icons=true&locale=en&layout=compact&theme=blue" alt="rumeshchathuranga" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeshchathuranga&show_icons=true&locale=en&theme=blue" alt="rumeshchathuranga" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=blue" alt="rumeshchathuranga" /></p>
 
 ## :trophy: Git profile Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=algolia" alt="rumeshchathuranga" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=blue" alt="rumeshchathuranga" /></a>
 </p>
 
 ## ⚡ Recent GitHub Activity:
 <p align="center">
-  <a href="https://github.com/rumeshchathuranga"><img alt="Rumesh Chathuranga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rumeshchathuranga&custom_title=RumeshChathuranga's%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github.com/rumeshchathuranga"><img alt="Rumesh Chathuranga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rumeshchathuranga&custom_title=RumeshChathuranga's%20Contribution%20Graph&theme=blue" /></a>
 </p>
