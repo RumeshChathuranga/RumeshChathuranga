@@ -39,6 +39,6 @@
 
 
 
-## :Trophy: Git profile Trophies
+<!---## :Trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=algolia" alt="rumeshchathuranga" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=algolia" alt="rumeshchathuranga" /></a> </p>--->
