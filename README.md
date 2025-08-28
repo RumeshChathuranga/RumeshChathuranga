@@ -35,8 +35,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="pycharm" width="40" height="40"/>
 
 
-## 🔥 Streak Stats
-
+<!-- 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=algolia&hide_border=false" alt="rumeshchathuranga" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -52,6 +51,6 @@
   
   </p>
 
-<!-- -## :Trophy: Git profile Trophies
+## :Trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=algolia" alt="rumeshchathuranga" /></a> </p>- -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=algolia" alt="rumeshchathuranga" /></a> </p>  -->
