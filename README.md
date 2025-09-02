@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/rumeshchathuranga" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RumeshChathuranga" style="border-radius: 50"/></a>
+<a href="https://linkedin.com/in/rumeshchathuranga" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RumeshChathuranga" style="border-radius: 5%"/></a>
 <a href="https://fb.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RumeshChathuranga" style="border-radius: 50"/></a>
 <a href="https://instagram.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="RumeshChathuranga" style="border-radius: 50"/></a>
 <a href="https://leetcode.com/u/rumeshchathuranga/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="RumeshChathuranga" style="border-radius: 50"/></a>
