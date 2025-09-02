@@ -26,7 +26,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/RumeshChathuranga/skill-icons-for-readme/blob/main/icons/VSCode-Dark.svg" alt="Vscode" width="40" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Vscode" width="40" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> 
