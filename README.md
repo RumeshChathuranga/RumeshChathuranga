@@ -11,10 +11,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/rumeshchathuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumeshchathuranga" height="30" width="40" /></a>
-<a href="https://fb.com/rumarumesh1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rumarumesh1220" height="30" width="40" /></a>
-<a href="https://instagram.com/rumarumesh1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumarumesh1220" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rumarumesh1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rumarumesh1220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rumeshchathuranga" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rumeshchathuranga" /></a>
+<a href="https://fb.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rumarumesh1220"/></a>
+<a href="https://instagram.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rumarumesh1220"/></a>
+<a href="https://www.hackerrank.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="rumarumesh1220" /></a>
 </p>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
