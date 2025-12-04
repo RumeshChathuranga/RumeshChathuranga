@@ -10,31 +10,20 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/rumeshchathuranga" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RumeshChathuranga" /></a>
-<a href="https://fb.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RumeshChathuranga" /></a>
-<a href="https://instagram.com/rumarumesh1220" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="RumeshChathuranga"/></a>
-<a href="https://leetcode.com/u/rumeshchathuranga/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="RumeshChathuranga" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rumeshchathuranga)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/rumarumesh1220)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rumarumesh1220)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/rumeshchathuranga/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rumarumesh1220@gmail.com)
+
+<br/>
+
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Vscode" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Intelej-idea" width="40" height="40"/>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="pycharm" width="40" height="40"/>
-
-<!--
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,css,fastapi,htmx,js,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,pycharm,windows,linux,redhat,ps,ai,postman,react,vite)](https://skillicons.dev)
+<br/>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=algolia&hide_border=false" alt="rumeshchathuranga" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -50,6 +39,8 @@
 
   </p>
 
-## :Trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeshchathuranga&layout=compact&theme=algolia" alt="rumeshchathuranga" /></a> </p>  -->
+
+
+
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rumeshchathuranga&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
