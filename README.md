@@ -21,7 +21,7 @@
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,css,fastapi,htmx,js,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,css,tailwind,bootstrap,fastapi,htmx,js,ts,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,pycharm,windows,linux,redhat,ps,ai,postman,react,vite)](https://skillicons.dev)
 <br/>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=algolia&hide_border=false" alt="rumeshchathuranga" /></p>
