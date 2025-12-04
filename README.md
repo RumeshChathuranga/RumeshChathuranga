@@ -29,18 +29,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rumeshchathuranga&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rumeshchathuranga&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rumeshchathuranga" height="192px"/>
-  <br/>
-
-  </p>
-
-
-
 
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rumeshchathuranga&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
