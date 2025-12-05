@@ -23,8 +23,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,css,tailwind,bootstrap,fastapi,htmx,js,ts,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,pycharm,windows,linux,redhat,ps,ai,postman,react,vite)](https://skillicons.dev)
-<br/>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=algolia&hide_border=false" alt="rumeshchathuranga" /></p>
+
+<!-- <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=algolia&hide_border=false" alt="rumeshchathuranga" /></p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
