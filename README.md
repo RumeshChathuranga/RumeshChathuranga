@@ -24,11 +24,40 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,css,tailwind,bootstrap,fastapi,htmx,js,ts,)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,idea,pycharm,windows,linux,redhat,ps,ai,postman,react,vite)](https://skillicons.dev)
 
-<!-- <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=algolia&hide_border=false" alt="rumeshchathuranga" /></p> -->
-
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <summary><b>💻 GitHub Profile Stats</b></summary>
 
+<summary><b>📊 GitHub Stats</b></summary>
+<br/>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumeshchathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="rumeshchathuranga" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=tokyonight&hide_border=true" alt="rumeshchathuranga" />
+</p>
+
+<br/>
+
+<summary><b>📈 Most Used Languages</b></summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumeshchathuranga&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumeshchathuranga&theme=tokyonight" alt="Top Languages by Commit" />
+ <a href="https://github.com/rumeshchathuranga">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rumeshchathuranga&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/>
+
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+<br/>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rumeshchathuranga&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
