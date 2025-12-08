@@ -31,8 +31,8 @@
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-delta-two-41.vercel.app/api?username=rumeshchathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="rumeshchathuranga" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rumeshchathuranga&theme=tokyonight&hide_border=true" alt="rumeshchathuranga" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumeshchathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="rumeshchathuranga" />
+  <!-- <img width="48%" src="https://streak-stats.demolab.com/?user=rumeshchathuranga&theme=tokyonight&hide_border=true" alt="rumeshchathuranga" /> -->
 </p>
 
 </details>
