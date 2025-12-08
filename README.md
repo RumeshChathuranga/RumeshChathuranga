@@ -18,7 +18,6 @@
 
 <br/>
 
-
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,html,css,tailwind,bootstrap,fastapi,htmx,js,ts,)](https://skillicons.dev)
@@ -27,17 +26,20 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
+<details>
 <summary><b>📊 GitHub Stats</b></summary>
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rumeshchathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="rumeshchathuranga" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeshchathuranga&theme=tokyonight&hide_border=true" alt="rumeshchathuranga" />
+  <img width="48%" src="https://github-readme-stats-delta-two-41.vercel.app/api?username=rumeshchathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="rumeshchathuranga" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=rumeshchathuranga&theme=tokyonight&hide_border=true" alt="rumeshchathuranga" />
 </p>
+
+</details>
 
 <br/>
 
+<details>
 <summary><b>📈 Most Used Languages</b></summary>
 
 <br/>
@@ -46,18 +48,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rumeshchathuranga&theme=tokyonight" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rumeshchathuranga&theme=tokyonight" alt="Top Languages by Commit" />
  <a href="https://github.com/rumeshchathuranga">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rumeshchathuranga&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats-delta-two-41.vercel.app/api/top-langs/?username=rumeshchathuranga&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
+</details>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 
- <summary><b>💻 GitHub Profile Stats</b></summary>
+<details>
+<summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rumeshchathuranga&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
